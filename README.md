@@ -1,5 +1,5 @@
-# Now, for the funniest thing you've ever seen
-## ...from really far away
+## Now, for the funniest thing you've ever seen
+### ...from really far away
 
 ---
 
